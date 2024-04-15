@@ -1,0 +1,8 @@
+{
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "inlineStyle": true
+    }
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
